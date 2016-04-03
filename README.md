@@ -1,3 +1,3 @@
 # Project-Euler-Solutions
 
-#spoiler_alert
+&#35spoiler_alert
