@@ -1,6 +1,7 @@
 # Define a function that recieves a list of all primes < n, and a
 # number n for which you are checking for primality
 def is_prime(primes, n):
+
     # Iterate over all prime values in the prime list
     for prime in primes:
 
