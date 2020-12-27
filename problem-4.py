@@ -10,4 +10,4 @@ for i in range(999, 99, -1):
     for j in range (999, 99, -1):
         if (is_palidrone(i*j) and i*j > max_palidrone):
             max_palidrone = i*j
-print max_palidrone
+print(max_palidrone)

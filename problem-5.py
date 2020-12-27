@@ -4,6 +4,6 @@ while True:
         if (answer % i != 0):
             break
         elif (i == 20):
-            print answer
+            print(answer)
             exit()
     answer += 20
