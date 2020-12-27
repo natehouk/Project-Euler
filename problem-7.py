@@ -6,12 +6,12 @@ def is_prime(primes, n):
     for prime in primes:
 
         # If n is evenly divisble by a prime value
-        # then it is not itself a prime value and return false */
+        # then it is not itself a prime value and return false
         if n % prime == 0:
             return False
 
      # If n is not evenly divisble by any of the lower prime
-     # values then, it is itself a prime number and return true */
+     # values then, it is itself a prime number and return true
     return True
 
 if __name__ == "__main__":
