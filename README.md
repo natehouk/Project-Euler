@@ -1,4 +1,4 @@
-# Project-Euler-Solutions
+# Project Euler Solutions
 
 Output the solution by running the respective problem:
 
